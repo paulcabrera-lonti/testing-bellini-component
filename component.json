@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "testing1",
+  "name": "testing",
   "children": [
     {
       "name": "h1",
@@ -23,6 +23,14 @@
           "evaluate": false
         }
       ]
+    },
+    {
+      "name": "textarea",
+      "classList": [],
+      "children": [],
+      "formDisabled": "",
+      "formReadonly": "",
+      "bindTo": ""
     }
   ],
   "variables": [],
@@ -31,9 +39,10 @@
   "styles": [],
   "localStylesheets": [
     {
-      "path": "css.css"
+      "path": "css.css",
+      "parentDirectoryId": null,
+      "properties": null,
+      "order": null
     }
-  ],
-  "icon": null,
-  "iconType": null
+  ]
 }
