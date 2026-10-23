@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "testing",
+  "name": "testing1",
   "children": [
     {
       "name": "h1",
@@ -9,6 +9,17 @@
         {
           "name": "text",
           "textContent": "h1",
+          "evaluate": false
+        }
+      ]
+    },
+    {
+      "name": "b",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "bold",
           "evaluate": false
         }
       ]
@@ -22,5 +33,7 @@
     {
       "path": "css.css"
     }
-  ]
+  ],
+  "icon": null,
+  "iconType": null
 }
