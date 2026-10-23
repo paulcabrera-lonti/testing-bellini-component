@@ -1,0 +1,26 @@
+{
+  "type": "component",
+  "name": "testing",
+  "children": [
+    {
+      "name": "h1",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "h1",
+          "evaluate": false
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "localStylesheets": [
+    {
+      "path": "css.css"
+    }
+  ]
+}
